@@ -1,1 +1,1 @@
-FORM quay.io/ceph/ceph:v17.2.5
+FROM quay.io/ceph/ceph:v17.2.5
